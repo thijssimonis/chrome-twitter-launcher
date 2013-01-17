@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "app": {
+    "launch": {
+      "web_url": "https://twitter.com/"
+    },
+    "urls": [ "https://twitter.com/" ]
+  },
+  "description": "Quick launch Twitter",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "name": "Twitter",
+  "permissions": [ "unlimitedStorage" ],
+  "version": "1.0"
+}
